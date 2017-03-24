@@ -1,6 +1,6 @@
 # Trail
-Introduction to github
-Her er min første github dimmer
+Introduction to github.
+Her er min første github dimmer, og har lært lidt markdown
 
 ## Jeg er en h2
 how to make a link:
